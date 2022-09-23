@@ -21,7 +21,7 @@ moviepy==0.2.3.2
 numpy==1.17.3
 opencv-python==4.1.1.26
 Pillow==8.1.1
-protobuf==3.10.0
+protobuf==3.18.3
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pytz==2019.3
